@@ -23,14 +23,14 @@ Simulate basic bank operations using Java and Object-Oriented Programming (OOP) 
 ---
 
 ### 📁 File Structure
+```
 -BankAccountSimulation_5
 ├── Account.java // Manages balance, deposit, withdraw, transfer
 ├── AccountTransaction.java // Stores transaction metadata
 ├── Bank.java // Central controller for user management
 ├── User.java // Represents a bank user
 ├── Main.java // CLI-based driver class
-
-
+```
 
 ---
 
